@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 fffffffffffffffffffffffffff
-diaby s
+diaby et encore apres le rebase
 ## Introduction
 fffffffffffrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
