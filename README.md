@@ -18,3 +18,4 @@ eeeeeeeeeeee
 
 ## copyright
 git jfjfjfjfjfjfjf
+all rights reserved 
