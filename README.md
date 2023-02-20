@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work
 fffffffffffffffffffffffffff
 diaby et encore apres le rebase
+
+Modif apres stashing
 ## Introduction
 fffffffffffrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
